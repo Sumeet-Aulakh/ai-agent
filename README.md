@@ -32,3 +32,8 @@ Create an [API Key from OpenAI](https://platform.openai.com/settings/organizatio
 ```
 OPENAI_API_KEY='YOUR_API_KEY'
 ```
+
+## Inspiration
+
+- [Frontend Masters](https://frontendmasters.com/workshops/build-ai-agent/)
+- [Scott Moss](https://github.com/hendrixer)
