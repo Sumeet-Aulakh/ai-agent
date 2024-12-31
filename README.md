@@ -8,12 +8,12 @@
 
 This repo requires **Node.js version 20+** or **bun v1.0.20**.
 
-The `main` branch contains the final application. To code along with the workshop, checkout the `step/1` branch. You will also need an [API Key from OpenAI](https://platform.openai.com/settings/organization/api-keys).
+The `main` branch contains the final application.
+You will also need an [API Key from OpenAI](https://platform.openai.com/settings/organization/api-keys).
 
 ```bash
-git clone https://github.com/Hendrixer/agent-from-scratch.git
-cd agent-from-scratch
-git checkout step/1
+git clone https://github.com/Sumeet-Aulakh/ai-agent.git
+cd ai-agent
 npm install # or bun install
 ```
 
